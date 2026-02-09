@@ -52,7 +52,7 @@ Staff:  Jorge Suazo
 - Viernes 4. Introducción a R, parte 2 (13/marzo/2026) - Santiago Rosas
 - Viernes 5. Manipulación de datos usando R (vector) (20/marzo/2026) - Emilio Ortiz-Avila
 - Viernes 6. Manipulación de datos usando R (dataframe) (27/marzo/2026) - Emilio Ortiz-Avila
-- Viernes 7. Buenas prácticas en Bioinformática (10/abril/2026) -
+- Viernes 7. Buenas prácticas en Bioinformática (10/abril/2026) - Pavel Salazar
 - Viernes 8. El ABC de las funciones (17/abril/2026) - Haydeé Peruyero y Sofia Zorrilla
 - Curso en Puebla - Bioestadística con IA (24/abril/2026) - Evelia Coss (solo presencial)
 - Viernes 9. Documentación de funciones con roxygen (8/mayo/2026) - Haydeé Peruyero y Sofia Zorrilla
