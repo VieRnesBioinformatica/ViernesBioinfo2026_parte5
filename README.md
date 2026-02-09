@@ -31,7 +31,7 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 
 ## Instructores 👾
 
-- Pavel Salazar -  Estudiante de doctorado, Doctorado en Biomedicina, LIIGH-UNAM 
+- Pavel Salazar Fernández - Estudiante de doctorado, Doctorado en Ciencias Biomédicas, LIIGH-UNAM
 - Santiago Rosas -  Posdoctorante, LIIGH-UNAM
 - Dra. Evelia Coss - Posdoctorante, LIIGH-UNAM
 - Dr. Israel Aguilar - Posdoctorante, Tec de Monterrey
