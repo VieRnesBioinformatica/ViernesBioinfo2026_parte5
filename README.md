@@ -53,18 +53,15 @@ Staff:  Jorge Suazo
 - Viernes 6. Manipulación de datos usando R (dataframe) (27/marzo/2026) - Emilio Ortiz-Avila
 - Viernes 7. Buenas prácticas en Bioinformática (10/abril/2026) -
 - Viernes 8. El ABC de las funciones (17/abril/2026) -
-- Viernes 9. Documentación de funciones con roxygen -
 - Curso en Puebla - Bioestadística con IA (24/abril/2026) - Evelia Coss (solo presencial)
-- Viernes 10. Introducción a Quarto (reportes) (8/mayo/2026) -
-- Viernes 11. Empleo de stringr (15/mayo/2026) - Laura Gómez 
-- Viernes 12. Generar presentaciones con Rmarkdown (22/mayo/2026) - Evelia Coss
-- Viernes 13. Introducción a Quarto (página web) (29/mayo/2026) - Evelia Coss
-- Viernes 14. Introducción a la visualización de datos con ggplot2 (5/junio/2026) - Israel Aguilar 
-- Viernes 15. Visualizaciones gráficas y figuras interactivas, parte 1 (5/junio/2026) - Israel Aguilar 
-- Viernes 16. Visualizaciones gráficas y figuras interactivas, parte 2 (12/junio/2026) - Israel Aguilar 
-- Viernes 16. Visualizaciones gráficas y figuras interactivas, parte 3 (19/junio/2026) - Israel Aguilar 
-
-
+- Viernes 9. Documentación de funciones con roxygen (8/mayo/2026) -
+- Viernes 10. Empleo de stringr (15/mayo/2026) - Laura Gómez
+- Viernes 11. Introducción a Quarto (reportes) (22/mayo/2026) -
+- Viernes 12. Generar presentaciones con Rmarkdown (29/mayo/2026) - Evelia Coss
+- Viernes 13. Introducción a la visualización de datos con ggplot2 (5/junio/2026) - Israel Aguilar 
+- Viernes 14. Visualizaciones gráficas y figuras interactivas, parte 1 (12/junio/2026) - Israel Aguilar 
+- Viernes 15. Visualizaciones gráficas y figuras interactivas, parte 2 (19/junio/2026) - Israel Aguilar 
+ 
 <!-- Este es un comentario y no aparecerá en el documento renderizado 
 Información basica de los cursos
 #### Viernes 2 y 3. Introducción a R
