@@ -37,7 +37,8 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 - Dr. Israel Aguilar - Posdoctorante, Tec de Monterrey
 - Emilio Ortiz-Avila - Tesista de licenciatura, UAQ-UNAM.
 - Dra. Laura Gómez
-- 
+- Dra. Haydeé Peruyero - Rladies Morelia, Profesora Investigadora, ENES-Juriquilla
+- Sofia Zorrilla - Rladies Morelia, estudiante de maestria PCBIOL en ENES Morelia
 
 Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 
@@ -52,11 +53,11 @@ Staff:  Jorge Suazo
 - Viernes 5. Manipulación de datos usando R (vector) (20/marzo/2026) - Emilio Ortiz-Avila
 - Viernes 6. Manipulación de datos usando R (dataframe) (27/marzo/2026) - Emilio Ortiz-Avila
 - Viernes 7. Buenas prácticas en Bioinformática (10/abril/2026) -
-- Viernes 8. El ABC de las funciones (17/abril/2026) -
+- Viernes 8. El ABC de las funciones (17/abril/2026) - Haydeé Peruyero y Sofia Zorrilla
 - Curso en Puebla - Bioestadística con IA (24/abril/2026) - Evelia Coss (solo presencial)
-- Viernes 9. Documentación de funciones con roxygen (8/mayo/2026) -
+- Viernes 9. Documentación de funciones con roxygen (8/mayo/2026) - Haydeé Peruyero y Sofia Zorrilla
 - Viernes 10. Empleo de stringr (15/mayo/2026) - Laura Gómez
-- Viernes 11. Introducción a Quarto (reportes) (22/mayo/2026) -
+- Viernes 11. Introducción a Quarto (reportes) (22/mayo/2026) - Sofia Zorrilla
 - Viernes 12. Generar presentaciones con Rmarkdown (29/mayo/2026) - Evelia Coss
 - Viernes 13. Introducción a la visualización de datos con ggplot2 (5/junio/2026) - Israel Aguilar 
 - Viernes 14. Visualizaciones gráficas y figuras interactivas, parte 1 (12/junio/2026) - Israel Aguilar 
