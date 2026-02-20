@@ -63,15 +63,13 @@ Staff:  Jorge Suazo
 - Viernes 14. Visualizaciones gráficas y figuras interactivas, parte 1 (12/junio/2026) - Israel Aguilar 
 - Viernes 15. Visualizaciones gráficas y figuras interactivas, parte 2 (19/junio/2026) - Israel Aguilar 
  
-<!-- Este es un comentario y no aparecerá en el documento renderizado 
-Información basica de los cursos
-#### Viernes 2 y 3. Introducción a R
-- Fecha: 
-- Instructor: 
-- Manual: 
-- Presentación:
-- Link de Youtube:
--->
+
+#### Viernes 1. Información general del curso
+
+- Fecha: 20 de febrero
+- Instructora: Evelia Coss
+- Presentación: [Sesión informativa](https://viernesbioinformatica.github.io/Dia1_VieRnesBioinfo2026_presentacion/Dia1_VieRnesBioinfo.html#1)
+
 
 
 # Curso: Predicción estructural de proteínas 
