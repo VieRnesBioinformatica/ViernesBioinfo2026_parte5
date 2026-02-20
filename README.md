@@ -56,7 +56,7 @@ Staff:  Jorge Suazo
 - Viernes 8. El ABC de las funciones (17/abril/2026) - Haydeé Peruyero y Sofia Zorrilla
 - Curso en Puebla - Bioestadística con IA (24/abril/2026) - Evelia Coss (solo presencial)
 - Viernes 9. Documentación de funciones con roxygen (8/mayo/2026) - Haydeé Peruyero y Sofia Zorrilla
-- Viernes 10. Empleo de stringr (15/mayo/2026) - Laura Gómez
+- Viernes 10. Manipulando cadenas de texto en R (15/mayo/2026) - Laura Gómez
 - Viernes 11. Introducción a Quarto (reportes) (22/mayo/2026) - Sofia Zorrilla
 - Viernes 12. Generar presentaciones con Rmarkdown (29/mayo/2026) - Evelia Coss
 - Viernes 13. Introducción a la visualización de datos con ggplot2 (5/junio/2026) - Israel Aguilar 
