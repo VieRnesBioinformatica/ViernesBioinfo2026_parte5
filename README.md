@@ -47,7 +47,7 @@ Staff:  Jorge Suazo
 ## Contenido 📌
 
 - Viernes 1. Información general del curso (20/feb/2026) - Evelia Coss e Israel Aguilar 
-- Viernes 2. Ciencia abierta (27/feb/2026) - Evelia Coss 
+- Viernes 2. Buenas prácticas en Bioinformática y Ciencia Abierta (27/feb/2026) - Evelia Coss 
 - Viernes 3. Introducción a R, parte 1 (6/marzo/2026) - Santiago Rosas
 - Viernes 4. Introducción a R, parte 2 (13/marzo/2026) - Santiago Rosas
 - Viernes 5. Manipulación de datos usando R (vector) (20/marzo/2026) - Emilio Ortiz-Avila
@@ -70,7 +70,12 @@ Staff:  Jorge Suazo
 - Instructora: Evelia Coss
 - Presentación: [Sesión informativa](https://viernesbioinformatica.github.io/Dia1_VieRnesBioinfo2026_presentacion/Dia1_VieRnesBioinfo.html#1)
 
+### Viernes 2. Buenas prácticas en Bioinformática y Ciencia Abierta
 
+- Fecha: 27 de febrero
+- Instructora: Evelia Coss
+- Presentación: [Buenas practicas y ciencia abierta](https://eveliacoss.github.io/VieRnesBioinfo2026_BuenasPracticas_CienciaAbierta_presentacion/Dia2_BuenasPracticas.html#1)
+- Link de Youtube: 
 
 # Curso: Predicción estructural de proteínas 
 
