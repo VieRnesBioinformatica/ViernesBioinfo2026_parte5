@@ -75,14 +75,21 @@ Staff:  Jorge Suazo
 - Fecha: 27 de febrero
 - Instructora: Evelia Coss
 - Presentación: [Buenas practicas y ciencia abierta](https://eveliacoss.github.io/VieRnesBioinfo2026_BuenasPracticas_CienciaAbierta_presentacion/Dia2_BuenasPracticas.html#1)
-- Link de Youtube: [Clase 2:  Buenas prácticas en Bioinformática y Ciencia Abierta](https://www.youtube.com/live/rxVIokNA4EM?si=kOIjSiUY5nWhfzHX)
+- Link de Youtube: [Clase 2: Buenas prácticas en Bioinformática y Ciencia Abierta](https://www.youtube.com/live/rxVIokNA4EM?si=kOIjSiUY5nWhfzHX)
 
 ### Viernes 3. Introducción a R, parte 1
 
 - Fecha: 6 de marzo
 - Instructor: Santiago Rosas
 - Material para la clase: [Clase_Introduccion_R](https://github.com/Santiago-Rosas/Clase_introduccion_R)
-- Link de Youtube:
+- Link de Youtube: [Clase 2: Introduccion_R, parte 1](https://www.youtube.com/watch?v=x1A5SXXx3Dk)
+
+### Viernes 4. Introducción a R, parte 3
+
+- Fecha: 13 de marzo
+- Instructor: Santiago Rosas
+- Material para la clase: [Clase_Introduccion_R](https://github.com/Santiago-Rosas/Clase_introduccion_R)
+- Link de Youtube: [Clase 3: Introduccion_R, parte 2](https://www.youtube.com/watch?v=GYOZb0GLwYE)
 
 
 # Curso: Predicción estructural de proteínas 
