@@ -87,7 +87,7 @@ Staff:  Jorge Suazo
 ### Viernes 4. Introducción a R, parte 3
 
 - Fecha: 13 de marzo
-- Instructor: Santiago Rosas
+- Instructor: Santiago Rosas (mailto:santiagorosasplaza@gmail.com)
 - Material para la clase: [Clase_Introduccion_R](https://github.com/Santiago-Rosas/Clase_introduccion_R)
 - Link de Youtube: [Clase 3: Introduccion_R, parte 2](https://www.youtube.com/watch?v=GYOZb0GLwYE)
 - Más ejercicios: https://rpubs.com/hllinas/R_Filtrar_DataFrames
