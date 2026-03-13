@@ -90,6 +90,7 @@ Staff:  Jorge Suazo
 - Instructor: Santiago Rosas
 - Material para la clase: [Clase_Introduccion_R](https://github.com/Santiago-Rosas/Clase_introduccion_R)
 - Link de Youtube: [Clase 3: Introduccion_R, parte 2](https://www.youtube.com/watch?v=GYOZb0GLwYE)
+- Más ejercicios: https://rpubs.com/hllinas/R_Filtrar_DataFrames
 
 
 # Curso: Predicción estructural de proteínas 
