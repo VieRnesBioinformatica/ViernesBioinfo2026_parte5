@@ -92,7 +92,7 @@ Staff:  Jorge Suazo
 - Link de Youtube: [Clase 3: Introduccion_R, parte 2](https://www.youtube.com/watch?v=GYOZb0GLwYE)
 - Más ejercicios: https://rpubs.com/hllinas/R_Filtrar_DataFrames
 
-### Viernes 4. Introducción a R, parte 3
+### Viernes 5. Manipulación de datos en R, parte 1
 
 - Fecha: 13 de marzo
 - Instructor: Emilio Ortiz
