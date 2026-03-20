@@ -92,6 +92,13 @@ Staff:  Jorge Suazo
 - Link de Youtube: [Clase 3: Introduccion_R, parte 2](https://www.youtube.com/watch?v=GYOZb0GLwYE)
 - Más ejercicios: https://rpubs.com/hllinas/R_Filtrar_DataFrames
 
+### Viernes 4. Introducción a R, parte 3
+
+- Fecha: 13 de marzo
+- Instructor: Emilio Ortiz
+-  Material para la clase: [Clase 4:vectores](https://emilio-o.github.io/Viernes-Bioinfo-2026/)
+- Link de Youtube: [Clase 4](https://www.youtube.com/watch?v=x_55wGUnIW8)
+
 
 # Curso: Predicción estructural de proteínas 
 
