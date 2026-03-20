@@ -94,7 +94,7 @@ Staff:  Jorge Suazo
 
 ### Viernes 5. Manipulación de datos en R, parte 1
 
-- Fecha: 13 de marzo
+- Fecha: 20 de marzo
 - Instructor: Emilio Ortiz
 -  Material para la clase: [Clase 4:vectores](https://emilio-o.github.io/Viernes-Bioinfo-2026/)
 - Link de Youtube: [Clase 4](https://www.youtube.com/watch?v=x_55wGUnIW8)
