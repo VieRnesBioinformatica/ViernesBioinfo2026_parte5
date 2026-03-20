@@ -84,7 +84,7 @@ Staff:  Jorge Suazo
 - Material para la clase: [Clase_Introduccion_R](https://github.com/Santiago-Rosas/Clase_introduccion_R)
 - Link de Youtube: [Clase 2: Introduccion_R, parte 1](https://www.youtube.com/watch?v=x1A5SXXx3Dk)
 
-### Viernes 4. Introducción a R, parte 3
+### Viernes 4. Introducción a R, parte 2
 
 - Fecha: 13 de marzo
 - Instructor: Santiago Rosas (santiagorosasplaza@gmail.com)
