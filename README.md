@@ -51,7 +51,7 @@ Staff:  Jorge Suazo
 - Viernes 3. Introducción a R, parte 1 (6/marzo/2026) - Santiago Rosas
 - Viernes 4. Introducción a R, parte 2 (13/marzo/2026) - Santiago Rosas
 - Viernes 5. Manipulación de datos usando R (vector) (20/marzo/2026) - Emilio Ortiz-Avila
-- Viernes 6. Manipulación de datos usando R (dataframe) (27/marzo/2026) - Evelia Coss 
+- Viernes 6. Manipulación de datos usando R base y dplyr (dataframe) (27/marzo/2026) - Evelia Coss 
 - Viernes 7. Buenas prácticas en Bioinformática (10/abril/2026) - Pavel Salazar
 - Viernes 8. El ABC de las funciones (17/abril/2026) - Haydeé Peruyero y Sofia Zorrilla
 - Viernes 9. Bioestadística con IA (24/abril/2026) - Evelia Coss
@@ -82,22 +82,31 @@ Staff:  Jorge Suazo
 - Fecha: 6 de marzo
 - Instructor: Santiago Rosas
 - Material para la clase: [Clase_Introduccion_R](https://github.com/Santiago-Rosas/Clase_introduccion_R)
-- Link de Youtube: [Clase 2: Introduccion_R, parte 1](https://www.youtube.com/watch?v=x1A5SXXx3Dk)
+- Link de Youtube: [Clase 3: Introduccion_R, parte 1](https://www.youtube.com/watch?v=x1A5SXXx3Dk)
 
 ### Viernes 4. Introducción a R, parte 2
 
 - Fecha: 13 de marzo
 - Instructor: Santiago Rosas (santiagorosasplaza@gmail.com)
 - Material para la clase: [Clase_Introduccion_R](https://github.com/Santiago-Rosas/Clase_introduccion_R)
-- Link de Youtube: [Clase 3: Introduccion_R, parte 2](https://www.youtube.com/watch?v=GYOZb0GLwYE)
+- Link de Youtube: [Clase 4: Introduccion_R, parte 2](https://www.youtube.com/watch?v=GYOZb0GLwYE)
 - Más ejercicios: https://rpubs.com/hllinas/R_Filtrar_DataFrames
 
 ### Viernes 5. Manipulación de datos en R, parte 1
 
 - Fecha: 20 de marzo
 - Instructor: Emilio Ortiz
--  Material para la clase: [Clase 4:vectores](https://emilio-o.github.io/Viernes-Bioinfo-2026/)
-- Link de Youtube: [Clase 4](https://www.youtube.com/watch?v=x_55wGUnIW8)
+-  Material para la clase: [Clase 5: vectores](https://emilio-o.github.io/Viernes-Bioinfo-2026/)
+- Link de Youtube: [Clase 5](https://www.youtube.com/watch?v=x_55wGUnIW8)
+
+### Viernes 6. Manipulación de datos usando R base y dplyr (dataframe)
+
+- Fecha: 27 de marzo
+- Instructor: Evelia Coss
+-  Material para la clase: [Clase 6: dataframe](https://eveliacoss.github.io/Dataframe_VieRnesBioinfo2026_presentacion/Clase6_ManipulacionDatos_dataframe.html#1)
+- Link de Youtube: [Clase 6](https://www.youtube.com/live/wTsq4-ovrhQ?si=bEbAbcizqmBsoJZe)
+
+
 
 
 # Curso: Predicción estructural de proteínas 
