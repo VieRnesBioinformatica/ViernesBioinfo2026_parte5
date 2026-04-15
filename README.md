@@ -106,14 +106,14 @@ Staff:  Jorge Suazo
 -  Material para la clase: [Clase 6: dataframe](https://eveliacoss.github.io/Dataframe_VieRnesBioinfo2026_presentacion/Clase6_ManipulacionDatos_dataframe.html#1)
 - Link de Youtube: [Clase 6](https://www.youtube.com/live/wTsq4-ovrhQ?si=bEbAbcizqmBsoJZe)
 
-## Viernes 7. Buenas prácticas en Bioinformática
+### Viernes 7. Buenas prácticas en Bioinformática
 
 - Fecha: 10 de abril
 - Instructor: Pavel Salazar
 -  Material para la clase: [Clase 7](https://github.com/epsalazarf/manecvalt/tree/main/ViernesBioInfo_26p5)
 -  Link de Youtube: [Clase 7](https://www.youtube.com/live/Qvn9ltV1oeo?si=LJFefvLk-PVEMUo_)
 
-##  Viernes 8. El ABC de las funciones 
+###  Viernes 8. El ABC de las funciones 
 
 - Fecha: 17 de abril
 - Instructor: Haydeé Peruyero
