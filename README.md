@@ -113,7 +113,7 @@ Staff:  Jorge Suazo
 -  Material para la clase: [Clase 7](https://github.com/epsalazarf/manecvalt/tree/main/ViernesBioInfo_26p5)
 -  Link de Youtube: [Clase 7](https://www.youtube.com/live/Qvn9ltV1oeo?si=LJFefvLk-PVEMUo_)
 
-###  Viernes 8. El ABC de las funciones 
+###  Viernes 8. El ABC de las funciones (12 -14h)
 
 - Fecha: 17 de abril
 - Instructor: Haydeé Peruyero
