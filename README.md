@@ -53,9 +53,9 @@ Staff:  Jorge Suazo
 - Viernes 5. Manipulación de datos usando R (vector) (20/marzo/2026) - Emilio Ortiz-Avila
 - Viernes 6. Manipulación de datos usando R base y dplyr (dataframe) (27/marzo/2026) - Evelia Coss 
 - Viernes 7. Buenas prácticas en Bioinformática (10/abril/2026) - Pavel Salazar
-- Viernes 8. El ABC de las funciones (17/abril/2026) - Haydeé Peruyero y Sofia Zorrilla
+- Viernes 8. El ABC de las funciones (17/abril/2026) - Haydeé Peruyero
 - Viernes 9. Bioestadística con IA (24/abril/2026) - Evelia Coss
-- Viernes 10. Documentación de funciones con roxygen (8/mayo/2026) - Haydeé Peruyero y Sofia Zorrilla
+- Viernes 10. Documentación de funciones con roxygen (8/mayo/2026) - Sofia Zorrilla
 - Viernes 11. Manipulando cadenas de texto en R (15/mayo/2026) - Laura Gómez
 - Viernes 12. Introducción a Quarto (reportes) (22/mayo/2026) - Sofia Zorrilla
 - Viernes 13. Generar presentaciones con Rmarkdown (29/mayo/2026) - Evelia Coss
