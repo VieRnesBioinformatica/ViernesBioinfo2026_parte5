@@ -120,6 +120,13 @@ Staff:  Jorge Suazo
 -  Material para la clase: [Clase 8](https://haydeeperuyero.github.io/ABC_funciones/)
 -  Link de Youtube: [Clase 8](https://www.youtube.com/live/1ll3AmrBzBM?si=YsrrLtLsebzfPndK)
 
+###  Viernes 10. Documentación de funciones con roxygen
+
+- Fecha: 8 de mayo
+- Instructor: Sofia Zorrilla
+-  Material para la clase: [Clase 10](https://sofiazorrilla.github.io/taller-documentacion-funciones/planeacion-taller.html)
+-  Link de Youtube: [Clase 10](https://youtube.com/live/SjSeI13YaXk)
+
 # Curso: Predicción estructural de proteínas 
 
 #### Martes y jueves
