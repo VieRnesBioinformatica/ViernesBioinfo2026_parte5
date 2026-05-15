@@ -131,7 +131,7 @@ Staff:  Jorge Suazo
 
 - Fecha: 15 de mayo
 - Instructor: Laura Gómez
--  Material para la clase: [Clase 11](https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5/refs/heads/main/Clase%20-%20stringr%20-%20Laura%20Gomez.html)
+-  Material para la clase: [Clase 11](https://viernesbioinformatica.github.io/ViernesBioinfo2026_parte5/clase_stringr.html)
 -  Link de Youtube: [Clase 11](https://youtube.com/live/a5DE4Y8D_64)
 
 # Curso: Predicción estructural de proteínas 
