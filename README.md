@@ -127,6 +127,13 @@ Staff:  Jorge Suazo
 -  Material para la clase: [Clase 10](https://sofiazorrilla.github.io/taller-documentacion-funciones/planeacion-taller.html)
 -  Link de Youtube: [Clase 10](https://youtube.com/live/SjSeI13YaXk)
 
+###  Viernes 11. Manipulando cadenas de texto en R
+
+- Fecha: 15 de mayo
+- Instructor: Laura Gómez
+-  Material para la clase: [Clase 11](https://raw.githubusercontent.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5/refs/heads/main/Clase%20-%20stringr%20-%20Laura%20Gomez.html)
+-  Link de Youtube: [Clase 11](https://youtube.com/live/a5DE4Y8D_64)
+
 # Curso: Predicción estructural de proteínas 
 
 #### Martes y jueves
